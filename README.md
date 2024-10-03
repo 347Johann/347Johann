@@ -2,7 +2,7 @@
 
 📚 Learning: JavaScript
 💻 Interests: Web Development, Frontend Design
-🔧 Skill Level: Beginner
+🔧 Skill Level: Intermediate
 
 🔭 Sharing my journey as I navigate through the basics of web development.
 
